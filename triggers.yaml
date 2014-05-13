@@ -1,0 +1,25 @@
+Assembly: 
+    title: Assembly language For linux
+    categories:
+        data-types:           
+            - what the different between the data: .ascii .asciiz
+        system_calls:  
+            - Calling the Linux System by command: __INT 0x80__
+            - which fd argument will use stdout? __1__
+            - for calling system-function: write() - EAX should be set to: __4__
+        register_purpose: 
+            - for a loop operations - which reg is used as the loop counter? __ECX__ 
+
+MetaSploit_Framework:
+    title: metasploit framework
+    categories:
+        - something1: x
+        - something2: y
+
+
+Git:
+    title: git version control
+    categories: 
+        - merge: x
+        - commit: x
+        - terms: y
