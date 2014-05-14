@@ -7,7 +7,6 @@ TRIGGERS + QUESTIONS:
 ==
 [triggers] ( ./triggers.yaml )
 
-urls
+links
 ==
 [website] ( http://drichard.org/mindmaps )
-

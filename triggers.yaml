@@ -20,6 +20,14 @@ MetaSploit_Framework:
 Git:
     title: git version control
     categories: 
-        - merge: x
-        - commit: x
-        - terms: y
+        - merge: when we bump into a conflict ?
+        - commit: how to undo ?
+        - add:    how to undo ?
+        - 3_steps: which steps git offers ?
+        - terms:   how to find the id of a past commit ?
+        - gui_alternative: smart_git    
+        - urls:
+            - http://pcottle.github.io/learnGitBranching/
+            - http://marklodato.github.io/visual-git-guide/index-en.html
+            - https://try.github.io
+
