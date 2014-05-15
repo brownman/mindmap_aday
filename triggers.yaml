@@ -30,4 +30,9 @@ Git:
             - http://pcottle.github.io/learnGitBranching/
             - http://marklodato.github.io/visual-git-guide/index-en.html
             - https://try.github.io
-
+qemu:
+    title:
+    question:
+        - how to replace the branch we stand on ? say I am using arch linux to install debian to /dev/sdX - after I am updating the grab menu - I can choose what to do with the device of the host im currently using!
+        - how to install arch linux using the cli ?
+        - how to utilize: dd for copy an raw-formatted-image to the physical disk ?
