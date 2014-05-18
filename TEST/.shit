@@ -1,0 +1,10 @@
+cmd=$()
+if [ -z "$cmd" ];then
+    echo skipping
+else
+echo "[cmd] $cmd"
+echo CONFIRM
+read
+eval "$cmd"
+fi
+
