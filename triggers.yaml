@@ -40,4 +40,6 @@ gitflow:
     next:
         - how to create an upstream repo?
         - how to fast_forward a merge ?
+    url:
+        - https://www.atlassian.com
 
