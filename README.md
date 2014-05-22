@@ -10,3 +10,7 @@ TRIGGERS + QUESTIONS:
 links
 ==
 [website] ( http://drichard.org/mindmaps )
+
+next
+=
+[add code] bootstrapping arch linux
